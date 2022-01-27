@@ -1,5 +1,5 @@
 # drfapi
 Django REST Framework 
 
-フロントエンド
+フロントエンド：React<br />
 https://github.com/insilicomab/react-basic-drf
